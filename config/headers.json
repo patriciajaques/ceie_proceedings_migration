@@ -1,0 +1,36 @@
+{
+    "headers_artigos": [
+        "seq",
+        "language",
+        "sectionAbbrev",
+        "titleOrig",
+        "titleEn",
+        "abstractOrig",
+        "abstractEn",
+        "keywordsOrig",
+        "keywordsEn",
+        "pages",
+        "idJEMS",
+        "doi"
+    ],
+    "headers_autores": [
+        "article",
+        "authorFirstName",
+        "authorMiddleName",
+        "authorLastName",
+        "authorAffiliation",
+        "authorAffiliationEn",
+        "authorCountry",
+        "authorEmail",
+        "orcid",
+        "order"
+    ],
+    "headers_references": [
+        "article",
+        "description",
+        "doi",
+        "link",
+        "accessed",
+        "order"
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "site_url": "http://milanesa.ime.usp.br/rbie/index.php/sbie/issue/view/78",
+    "year": "2013",
+    "output_dir": "output/",
+    "doi_prefix": "10.5753/cbie.sbie.",
+    "prompts_file": "config/prompts.yaml",
+    "engine": "gpt-4o-mini",
+    "pages_to_process": 11,
+    "files_to_download": -1,
+    "files_to_download_description": "Use -1 to download all files"
+}
+
+
